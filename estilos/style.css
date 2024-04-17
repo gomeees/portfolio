@@ -142,6 +142,10 @@ body {
     padding-right: 15px;
 }
 
+.conteudo__certificado {
+    padding-bottom: 1em;
+}
+
 @media (max-width: 1200px) {
     .cabecalho {
         padding: 10%;    
